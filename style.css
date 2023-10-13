@@ -1,0 +1,31 @@
+body {
+  background: #242424;
+}
+
+.keyword{
+  color: #f75344;
+}
+
+.operador {
+  color: yellow;
+}
+
+.separadores{
+  color: white;
+}
+
+.comentario {
+  color: green;
+}
+
+.cadena {
+  color: pink;
+}
+
+.literales {
+  color: #54b6ff;
+}
+
+.identificadores {
+  color: plum;
+}
